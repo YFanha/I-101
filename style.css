@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+  color:#de005a;
+}
+
+ul, li {
+  padding:0;
+  margin:0 0 0 10px;
+}
+table {
+  width:80%;
+  border:none;
+  margin:0 auto;
+}
+  table th, table td {
+    padding:5px;
+    vertical-align: top;
+    text-align: left;
+    border-bottom:1px solid #000;
+  }

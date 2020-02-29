@@ -1,6 +1,15 @@
 body{
     font-family: Calibri;
-    background-color: #ecfff9;
+    background-color: #00b078; /*ecfff9*/
+}
+
+body a{
+    color: white;
+    text-decoration: none;
+}
+
+hr{
+    color: white;
 }
 
 header{
@@ -21,11 +30,11 @@ header{
     margin-right: 0px;
 }
 h2, h3, h4, h5, h6 {
-    color: #00cc8b;
+    color: #006d4a;
 }
 
 header h1 {
-    color: 2d2b2b;
+    color: #2d2b2b;
     align-self: center;
     margin: auto;
 }
@@ -35,9 +44,51 @@ ul, li {
   margin:0 0 0 10px;
 }
 table {
-    background-color: white;
-  width:80%;
-  border: 2px black solid;
-  margin:0 auto;
+    background-color: #006d4a; /*006d4a*/
+    width:80%;
+    /*border: 2px black solid;*/
+    margin:0 auto;
+    border-collapse: collapse;
+    color: white;
 }
 
+table a{
+    color: white;
+    text-decoration: underline;
+}
+
+
+
+th{
+    background-color:  #003b28;
+    /*color: white;*/
+    border-bottom: 2px black solid;
+}
+
+th a{
+    text-decoration: none;
+}
+
+tr{
+    border-bottom: 1px black solid;
+}
+
+tr:last-child{
+    border-bottom: none;
+}
+
+td{
+    padding: 1.5%;
+}
+
+footer {
+    border-top: 2px gray solid;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+footer h3 {
+    margin-left: 25px;
+}

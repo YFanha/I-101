@@ -12,6 +12,14 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,9 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FC-Yvonand" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -43,6 +53,7 @@
       <workItem from="1583001079807" duration="1330000" />
       <workItem from="1583170212918" duration="765000" />
       <workItem from="1583250023233" duration="1321000" />
+      <workItem from="1583436288366" duration="3599000" />
     </task>
     <servers />
   </component>
@@ -50,13 +61,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="885" y="217" key="FileChooserDialogImpl" timestamp="1583170621707">
+    <state x="885" y="217" key="FileChooserDialogImpl" timestamp="1583438004593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="885" y="217" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1583438004593" />
     <state x="885" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583170621707" />
     <state x="557" y="58" key="SettingsEditor" timestamp="1583170736825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="557" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583170736825" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583437815493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1583437815493" />
   </component>
 </project>

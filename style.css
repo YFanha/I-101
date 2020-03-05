@@ -1,5 +1,5 @@
 body{
-    font-family: Calibri;
+    font-family: Calibri, sans-serif;
     background-color: #00b078; /*ecfff9*/
 }
 
@@ -43,6 +43,7 @@ ul, li {
   padding:0;
   margin:0 0 0 10px;
 }
+
 table {
     background-color: #006d4a; /*006d4a*/
     width:80%;
@@ -56,8 +57,6 @@ table a{
     color: white;
     text-decoration: underline;
 }
-
-
 
 th{
     background-color:  #003b28;
@@ -81,6 +80,7 @@ td{
     padding: 1.5%;
 }
 
+
 footer {
     border-top-style: double;
     border-top-color: red;
@@ -93,8 +93,11 @@ footer {
     display: flex;
 }
 
-
 #signature{
     margin-right: 55px;
     margin-left: auto;
+}
+
+#signature a{
+    color: #006d4a;
 }

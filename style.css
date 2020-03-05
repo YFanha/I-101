@@ -82,13 +82,19 @@ td{
 }
 
 footer {
-    border-top: 2px gray solid;
+    border-top-style: double;
+    border-top-color: red;
+    border-top-width: 7px;
     width: 100%;
     position: fixed;
     bottom: 0px;
     left: 0px;
+
+    display: flex;
 }
 
-footer h3 {
-    margin-left: 25px;
+
+#signature{
+    margin-right: 55px;
+    margin-left: auto;
 }

@@ -33,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FC-Yvonand" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -54,6 +54,7 @@
       <workItem from="1583170212918" duration="765000" />
       <workItem from="1583250023233" duration="1321000" />
       <workItem from="1583436288366" duration="3599000" />
+      <workItem from="1592385972930" duration="814000" />
     </task>
     <servers />
   </component>

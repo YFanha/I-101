@@ -55,6 +55,8 @@
       <workItem from="1583250023233" duration="1321000" />
       <workItem from="1583436288366" duration="3599000" />
       <workItem from="1592385972930" duration="814000" />
+      <workItem from="1592388756406" duration="7000" />
+      <workItem from="1592400033859" duration="716000" />
     </task>
     <servers />
   </component>
@@ -62,18 +64,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="885" y="217" key="FileChooserDialogImpl" timestamp="1583438004593">
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1592400750922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="885" y="217" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1583438004593" />
-    <state x="885" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583170621707" />
-    <state x="557" y="58" key="SettingsEditor" timestamp="1583170736825">
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592400750922" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1592400752673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="557" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583170736825" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583437815493">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1583437815493" />
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592400752673" />
   </component>
 </project>
